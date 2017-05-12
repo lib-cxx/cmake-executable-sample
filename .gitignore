@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+# CMake
+build
+Dependencies/volatile/**/*
+
+# Kdevelop
+.kde*
+*.kdev4
+
+# CLion
+.idea
